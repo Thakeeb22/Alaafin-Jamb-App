@@ -36,8 +36,9 @@ Alafin Oyo jamb quiz app/
 │   ├── physics.json        # Physics questions
 │   └── principles-of-accounts.json # Accounts questions
 ├── img/                    # Images and assets
-│   ├── sahal logo.svg      # School logo
-│   ├── sahal favicon.svg   # Favicon
+│   ├── alaafin-oyo-1.jpeg  # Alaafin Image
+│   ├── alaafin-oyo-2.jpeg  # Alaafin Image2
+    |-- school-solid-full.svg # Logo
 │   └── questions/          # Question-related images
 ├── api/                    # Unused API directory (for future backend)
 └── .gitignore              # Git ignore file
