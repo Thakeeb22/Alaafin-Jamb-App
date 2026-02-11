@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@capacitor/android": "^8.0.2",
+    "@capacitor/cli": "^8.0.2",
+    "@capacitor/core": "^8.0.2",
+    "bcryptjs": "^3.0.3",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.1.5"
+  },
+  "name": "alaafin-oyo-jamb-quiz-app",
+  "version": "1.0.0",
+  "description": "Alaafin Oyo JAMB Practice App is a lightweight Computer-Based Test (CBT) application for students preparing for JAMB exams. This is a frontend-only MVP built with vanilla HTML, CSS, and JavaScript, using browser localStorage for data persistence and static JSON files for questions.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git hub link"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "github linkissues"
+  },
+  "homepage": "github link #readme"
+}
