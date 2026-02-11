@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git hub link"
+    "url": "git+https://github.com/Thakeeb22/Alaafin-Jamb-App.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "github linkissues"
+    "url": "https://github.com/Thakeeb22/Alaafin-Jamb-App.git#issues"
   },
-  "homepage": "github link #readme"
+  "homepage": "https://github.com/Thakeeb22/Alaafin-Jamb-App.git#readme"
 }

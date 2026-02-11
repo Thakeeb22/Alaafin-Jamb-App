@@ -1,8 +1,8 @@
-# Alalfin Oyo School JAMB Practice App
+# Alaafin Oyo School JAMB Practice App
 
 ### Overview
 
-Alafin Oyo JAMB Practice App is a frontend-only Computer-Based Test (CBT) application designed for students preparing for JAMB exams. Built with vanilla HTML, CSS, and JavaScript, it provides an interactive quiz interface for practicing questions across multiple subjects. The app uses browser localStorage for user data persistence and static JSON files for question storage.
+Alaafin Oyo JAMB Practice App is a frontend-only Computer-Based Test (CBT) application designed for students preparing for JAMB exams. Built with vanilla HTML, CSS, and JavaScript, it provides an interactive quiz interface for practicing questions across multiple subjects. The app uses browser localStorage for user data persistence and static JSON files for question storage.
 
 This README describes how to set up and run the application, its features, and architecture.
 
@@ -68,8 +68,8 @@ Alafin Oyo jamb quiz app/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Thakeeb22/sahal-jamb-practice.git
-   cd "Sahal School jamb quiz app"
+   git clone https://github.com/Thakeeb22/Alaafin-Jamb-App.git
+   cd "Alaafin Jamb App"
    ```
 
 2. **Run the application**:
