@@ -1,6 +1,6 @@
 import connectDB from "../_utils/db.js";
 import User from "../_models/User.js";
-import License from "../_models/License.js";
+// import License from "../_models/License.js";
 import { hashPassword } from "../_utils/hash.js";
 import { signToken } from "../_utils/auth.js";
 
